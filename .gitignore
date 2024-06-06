@@ -1,0 +1,7 @@
+#忽略所有.txt .dat .exe后缀文件
+*.txt
+*.dat
+*.exe
+
+#忽略.vscode文件
+*.vscode
